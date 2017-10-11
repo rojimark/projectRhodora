@@ -1,7 +1,7 @@
 <template>
 <div class="rooms">
   <div class="roomintro">
-       <h5>Take a peek at each of our rooms. Whichever one you choose assures utter comfort we believe you deserve to have..
+       <h5>Take a peek at each of our rooms. Whichever one you choose assures utter comfort we believe you deserve to have.
       </h5>
   </div>
  

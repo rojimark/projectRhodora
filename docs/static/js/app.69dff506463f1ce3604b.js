@@ -221,6 +221,24 @@ module.exports = __webpack_require__.p + "static/img/SampleRoom3.2eacec6.jpg";
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 /***/ }),
 
@@ -428,35 +446,10 @@ var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _
   return _c('div', {
     staticClass: "rooms"
   }, [_c('div', {
+    staticClass: "roomintro"
+  }, [_c('h5', [_vm._v("Take a peek at each of our rooms. Whichever one you choose assures utter comfort we believe you deserve to have.\n      ")])]), _vm._v(" "), _c('div', {
     staticClass: "row"
   }, [_c('div', {
-    staticClass: "col s12 m6"
-  }, [_c('div', {
-    staticClass: "card"
-  }, [_c('div', {
-    staticClass: "card-image waves-effect waves-block waves-light"
-  }, [_c('img', {
-    staticClass: "activator",
-    attrs: {
-      "src": __webpack_require__("ef20")
-    }
-  })]), _vm._v(" "), _c('div', {
-    staticClass: "card-content"
-  }, [_c('span', {
-    staticClass: "card-title activator grey-text text-darken-4"
-  }, [_vm._v("Room 1"), _c('i', {
-    staticClass: "material-icons right"
-  }, [_vm._v("more_vert")])]), _vm._v(" "), _c('p', [_c('a', {
-    attrs: {
-      "href": "#"
-    }
-  }, [_vm._v("This is a link")])])]), _vm._v(" "), _c('div', {
-    staticClass: "card-reveal"
-  }, [_c('span', {
-    staticClass: "card-title grey-text text-darken-4"
-  }, [_vm._v("Room Type 1"), _c('i', {
-    staticClass: "material-icons right"
-  }, [_vm._v("close")])]), _vm._v(" "), _c('p', [_vm._v("Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..")])])])]), _vm._v(" "), _c('div', {
     staticClass: "col s12 m6"
   }, [_c('div', {
     staticClass: "card"
@@ -471,19 +464,46 @@ var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _
     staticClass: "card-content"
   }, [_c('span', {
     staticClass: "card-title activator grey-text text-darken-4"
-  }, [_vm._v("Room 2"), _c('i', {
+  }, [_vm._v("Sunrise View Room"), _c('i', {
     staticClass: "material-icons right"
   }, [_vm._v("more_vert")])]), _vm._v(" "), _c('p', [_c('a', {
     attrs: {
       "href": "#"
     }
-  }, [_vm._v("This is a link")])])]), _vm._v(" "), _c('div', {
+  }, [_vm._v("Book this room")])])]), _vm._v(" "), _c('div', {
     staticClass: "card-reveal"
   }, [_c('span', {
     staticClass: "card-title grey-text text-darken-4"
-  }, [_vm._v("Room Type 2"), _c('i', {
+  }, [_vm._v("Sunrise View Room"), _c('i', {
     staticClass: "material-icons right"
-  }, [_vm._v("close")])]), _vm._v(" "), _c('p', [_vm._v("Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..")])])])]), _vm._v(" "), _c('div', {
+  }, [_vm._v("close")])]), _vm._v(" "), _c('p', [_vm._v("Wake up to the golden sunrise streaming through your window- a promise of a great day of fun in the sun.")]), _vm._v(" "), _c('hr'), _vm._v(" "), _c('p', [_vm._v("Php x,xxx.xx /night – Good for 2 persons (maximum of 4 with extra mattress at P5xx/night)")])])])]), _vm._v(" "), _c('div', {
+    staticClass: "col s12 m6"
+  }, [_c('div', {
+    staticClass: "card"
+  }, [_c('div', {
+    staticClass: "card-image waves-effect waves-block waves-light"
+  }, [_c('img', {
+    staticClass: "activator",
+    attrs: {
+      "src": __webpack_require__("ef20")
+    }
+  })]), _vm._v(" "), _c('div', {
+    staticClass: "card-content"
+  }, [_c('span', {
+    staticClass: "card-title activator grey-text text-darken-4"
+  }, [_vm._v("Garden View Room"), _c('i', {
+    staticClass: "material-icons right"
+  }, [_vm._v("more_vert")])]), _vm._v(" "), _c('p', [_c('a', {
+    attrs: {
+      "href": "#"
+    }
+  }, [_vm._v("Book this room")])])]), _vm._v(" "), _c('div', {
+    staticClass: "card-reveal"
+  }, [_c('span', {
+    staticClass: "card-title grey-text text-darken-4"
+  }, [_vm._v("Garden View Room"), _c('i', {
+    staticClass: "material-icons right"
+  }, [_vm._v("close")])]), _vm._v(" "), _c('p', [_vm._v("Feast on a view of garden blooms and lush greens that cool your eyes and mind.")]), _vm._v(" "), _c('hr'), _vm._v(" "), _c('p', [_vm._v("Php x,xxx.xx /night – Good for 2 persons (maximum of 3 with extra mattress at Pxx/night)")])])])]), _vm._v(" "), _c('div', {
     staticClass: "col s12 m6"
   }, [_c('div', {
     staticClass: "card"
@@ -498,19 +518,19 @@ var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _
     staticClass: "card-content"
   }, [_c('span', {
     staticClass: "card-title activator grey-text text-darken-4"
-  }, [_vm._v("Room 3"), _c('i', {
+  }, [_vm._v("Courtyard Room"), _c('i', {
     staticClass: "material-icons right"
   }, [_vm._v("more_vert")])]), _vm._v(" "), _c('p', [_c('a', {
     attrs: {
       "href": "#"
     }
-  }, [_vm._v("This is a link")])])]), _vm._v(" "), _c('div', {
+  }, [_vm._v("Book this room")])])]), _vm._v(" "), _c('div', {
     staticClass: "card-reveal"
   }, [_c('span', {
     staticClass: "card-title grey-text text-darken-4"
-  }, [_vm._v("Room Type 3"), _c('i', {
+  }, [_vm._v("Courtyard Room"), _c('i', {
     staticClass: "material-icons right"
-  }, [_vm._v("close")])]), _vm._v(" "), _c('p', [_vm._v("Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..")])])])]), _vm._v(" "), _c('div', {
+  }, [_vm._v("close")])]), _vm._v(" "), _c('p', [_vm._v("An atmosphere of comfort perfect for solo traveler and couples on a budget.")]), _vm._v(" "), _c('hr'), _vm._v(" "), _c('p', [_vm._v("\n        Php x,xxx.xx/night Good for 2 persons only.\n      ")])])])]), _vm._v(" "), _c('div', {
     staticClass: "col s12 m6"
   }, [_c('div', {
     staticClass: "card"
@@ -525,19 +545,19 @@ var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _
     staticClass: "card-content"
   }, [_c('span', {
     staticClass: "card-title activator grey-text text-darken-4"
-  }, [_vm._v("Room 4"), _c('i', {
+  }, [_vm._v("Family Room"), _c('i', {
     staticClass: "material-icons right"
   }, [_vm._v("more_vert")])]), _vm._v(" "), _c('p', [_c('a', {
     attrs: {
       "href": "#"
     }
-  }, [_vm._v("This is a link")])])]), _vm._v(" "), _c('div', {
+  }, [_vm._v("Book this room")])])]), _vm._v(" "), _c('div', {
     staticClass: "card-reveal"
   }, [_c('span', {
     staticClass: "card-title grey-text text-darken-4"
-  }, [_vm._v("Room Type 4"), _c('i', {
+  }, [_vm._v("Family Room"), _c('i', {
     staticClass: "material-icons right"
-  }, [_vm._v("close")])]), _vm._v(" "), _c('p', [_vm._v("Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..")])])])])])])
+  }, [_vm._v("close")])]), _vm._v(" "), _c('p', [_vm._v("Comfortable room with cozy bed and veranda overlooking the city. Each room is air conditioned and has a flat-screen TV with cable channels.")]), _vm._v(" "), _c('hr'), _vm._v(" "), _c('p', [_vm._v("\n        Php x,xxx.xx /night – Good for up to 4 persons (maximum of 3 with extra mattress at Pxxx/night) \n      ")])])])])])])
 }]
 var esExports = { render: render, staticRenderFns: staticRenderFns }
 /* harmony default export */ __webpack_exports__["a"] = (esExports);
@@ -906,4 +926,4 @@ var esExports = { render: render, staticRenderFns: staticRenderFns }
 /***/ })
 
 },["NHnr"]);
-//# sourceMappingURL=app.be8d56b936900d2cff8a.js.map
+//# sourceMappingURL=app.69dff506463f1ce3604b.js.map
